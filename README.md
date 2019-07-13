@@ -8,7 +8,7 @@ To test the WCF Service, you need to follow the next steps:
 2. Open the subfolder from the proyect and right click the file `PersonService.svc`, then select `Set As Start Page`.
 3. Rigth click the `WcfSGCISTest Proyect` and select `Debug`, and then `Start New Instance`. The WCF Test Client should be opened. Here you can test the Service.
 
-Note: Once the service is running, you can call the Service Funcion `InitializeData`. This method will create some data on the data base, for testing pourposes.
+Note: Once the service is running, you can call the Service Funcion `InitializeData`. This method will create some data on the data base, for testing purposes.
 
 ### Testing the Web Pages
 To test the Web Pages, you need to follow the next steps:
