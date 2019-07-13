@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSGCISTest", "SGCISTest\W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfSGCISTest", "WcfSGCISTest\WcfSGCISTest.csproj", "{1D100D94-981F-41B3-8255-423280A91263}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSGCITest", "DataSGCITest\DataSGCITest.csproj", "{EA5782D5-F84B-46F7-B5E3-F78109A7A82C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSGCISTest", "DataSGCISTest\DataSGCISTest.csproj", "{EA5782D5-F84B-46F7-B5E3-F78109A7A82C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

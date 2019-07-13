@@ -1,9 +1,11 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DataSGCISTest.Model
 {
+    /// <summary>
+    /// This class represents a Person
+    /// </summary>
     public class Person
     {
         [Key]

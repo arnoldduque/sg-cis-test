@@ -95,9 +95,9 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataSGCITest\DataSGCITest.csproj">
+    <ProjectReference Include="..\DataSGCISTest\DataSGCISTest.csproj">
       <Project>{EA5782D5-F84B-46F7-B5E3-F78109A7A82C}</Project>
-      <Name>DataSGCITest</Name>
+      <Name>DataSGCISTest</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
