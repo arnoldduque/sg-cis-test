@@ -1,6 +1,6 @@
 # Smart Grid CIS Test
 ## How To Run the Test
-In order to run this test, you will need Visual Studio 2019 (Community Edition from here).
+In order to run this test, you will need Visual Studio 2019 (Community Edition from [here](https://visualstudio.microsoft.com/vs/community/)).
 
 ### Testing the WCF
 To test the WCF Service, you need to follow the next steps:
